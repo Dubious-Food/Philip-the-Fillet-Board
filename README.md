@@ -11,7 +11,9 @@ Schematic            |  PCB
 
 
 ## Case
-
+The macropad case is sandwich-style and screws together with 
+Case            |       
+:-------------------------:|
 ![Case](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_213028.png) 
 
 
