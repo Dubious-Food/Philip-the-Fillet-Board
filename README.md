@@ -5,7 +5,7 @@ This is a 4-key macropad I made for general shortcuts and volume control. It fea
 
 ## PCB
 This is the pcb. It was made in kicad.
-![Schematic](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_234545.png)    |  ![PCB]() 
+![Schematic](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_234545.png)    |  ![PCB](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260324_111516.png) 
 
 
 
