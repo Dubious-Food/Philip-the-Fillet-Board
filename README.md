@@ -3,7 +3,18 @@
 ## Description 
 This is a 4-key macropad I made for general shortcuts and volume control. It features 4 addressable leds, a 3d-printed case, and rotary encoder.
 
-![Schematic](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_234545.png)    |  ![PCB](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_210312.png)  | ![Case](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_213028.png) ![PCB-top](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_210336.png) ![PCB-bottom](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_210346.png) 
+## PCB
+This is the pcb. It was made in kicad.
+![Schematic](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_234545.png)    |  ![PCB]() 
+
+
+
+
+
+
+
+
+| ![Case](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_213028.png) ![PCB-top](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_210336.png) ![PCB-bottom](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_210346.png) 
 
 
 ## BOM
