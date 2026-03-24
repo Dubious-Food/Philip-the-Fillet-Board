@@ -7,3 +7,13 @@ wip
 
 
 ## BOM
+- 1x SEEEDUINO XIAO RP2040
+- 4x  SK6812 MINI-E LEDs
+- 4x MX-Style switches
+- 1x EC11 Rotary encoders
+- 5x through-hole 1N4148 Diodes
+- 4x white blank DSA keycaps
+- 4x M3x16mm screws
+- 1x PCB from JLCPCB
+- 1x top case from Printing-Legion
+- 1x bottom case from Printing-Legion
