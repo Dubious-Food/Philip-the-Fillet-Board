@@ -4,7 +4,7 @@
 This is a 4-key macropad I made for general shortcuts and volume control. It features 4 addressable leds, a 3d-printed case, and rotary encoder.
 
 ## PCB
-Here are both the pcb and schematic that i made in Kicad.
+Here are the pcb and schematic I made in Kicad.
 Schematic            |  PCB
 :-------------------------:|:-------------------------:
 ![Schematic](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_234545.png)    |  ![PCB](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260324_111516.png) 
