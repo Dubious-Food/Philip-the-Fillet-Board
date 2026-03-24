@@ -26,6 +26,6 @@ Case            |
 - 5x through-hole 1N4148 Diodes
 - 4x white blank DSA keycaps
 - 4x M3x16mm screws
-- 1x PCB from JLCPCB
-- 1x top case from Printing-Legion
-- 1x bottom case from Printing-Legion
+- 1x PCB
+- 1x top case
+- 1x bottom case
