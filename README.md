@@ -14,7 +14,7 @@ Schematic            |  PCB
 The macropad case is sandwich-style and is connected with M3x16mm screws which go directly through the plastic.
 Case            |       
 :-------------------------:|
-![Case](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/Screenshot_20260323_213028.png) 
+![Case](https://github.com/Dubious-Food/Philip-the-Fillet-Board/blob/main/Photos/clippycase.png) 
 
 
 
